@@ -1,0 +1,21 @@
+var foods = ["Pizza","Burger","Snacks","Sandwich"];
+let arr = [true ,"Hello",24];
+let arr2 = ["Muhammad",true ,"smile",22,false];
+console.log(foods[1]);
+console.log(arr[0]);
+console.log(arr2[3]);
+console.log(arr2[6]);
+console.log(arr2[0]);
+console.log(foods);
+alert(foods);
+var foods = [];
+foods.push(prompt("Enter first food item"));
+foods.push(prompt("Enter second food item"));
+foods.push(prompt("Enter third food item"));
+/*foods.push("Burger");
+foods.push("Sandwich");
+foods.push("Snacks");
+console.log(foods[4]);
+console.log(foods[2]);*/
+console.log(foods[0]);
+console.log(foods);
